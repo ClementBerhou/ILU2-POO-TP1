@@ -163,7 +163,7 @@ public class Village {
 		return null;
 	}
 	
-	public class Marche {
+	public static class Marche {
 		private Etal[] etals;
 		
 		public Marche(int nbEtals) {
