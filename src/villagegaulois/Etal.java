@@ -3,7 +3,7 @@ package villagegaulois;
 import personnages.Gaulois;
 
 public class Etal {
-	protected Gaulois vendeur;
+	private Gaulois vendeur;
 	String produit;
 	private int quantiteDebutMarche;
 	protected int quantite;
